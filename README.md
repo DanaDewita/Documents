@@ -1,2 +1,2 @@
-# Datasciencecoursera
-Data Science Coursera
+# McCombs AI_ML
+Python Foundations
